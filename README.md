@@ -3,7 +3,7 @@
 [![Test and Deploy](https://github.com/stellar/java-stellar-sdk-android-spi/actions/workflows/test-deploy.yml/badge.svg?branch=main)](https://github.com/stellar/java-stellar-sdk-android-spi/actions/workflows/test-deploy.yml)
 [![](https://jitpack.io/v/stellar/java-stellar-sdk-android-spi.svg)](https://jitpack.io/#stellar/java-stellar-sdk-android-spi)
 
-The goal of this library is to enable users to conveniently integrate the Java Stellar SDK into lower versions of the Android platform. In this context, lower versions refer to Android API level 23 to 25. If your minSdk is set to 26 or higher, you do not need to include this library.
+The goal of this library is to enable users to conveniently integrate the Java Stellar SDK into lower versions of the Android platform. In this context, lower versions refer to Android API level 23 to 27. If your minSdk is set to 28 or higher, you do not need to include this library.
 
 ## Installation
 
